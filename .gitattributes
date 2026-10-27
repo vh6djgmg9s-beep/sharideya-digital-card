@@ -1,0 +1,5 @@
+# Preserve byte-identical deployment artifacts, especially vCard CRLF.
+docs/** -text
+*.png -text
+*.ndef -text
+*.bin -text
