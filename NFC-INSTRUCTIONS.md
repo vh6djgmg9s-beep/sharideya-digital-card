@@ -2,7 +2,9 @@
 
 ## До записи
 
-Публикация ещё не выполнена. Не записывайте localhost или предполагаемый адрес. Сначала завершите публикацию из README. После её проверки сборка создаст в `docs/`:
+Адрес опубликованной визитки: https://vh6djgmg9s-beep.github.io/sharideya-digital-card/
+
+Для записи используйте полный адрес из docs/NFC_URL.txt. Подготовлены файлы:
 
 - `NFC_URL.txt` — реальный HTTPS-адрес;
 - `NFC_URI.ndef` — одна NDEF-запись Well Known URI (TNF=1, тип U/0x55, HTTPS prefix=0x04);
